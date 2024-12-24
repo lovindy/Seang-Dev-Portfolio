@@ -34,7 +34,7 @@ const Hero = () => {
                     </TextGenerateEffect>
 
                     <p className='text-blue-100 text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl'>
-                        Hi, I&apos;m Marady, a software developer dedicated to building elegant and efficient solutions for the solving real-world problems.
+                        Hi, I&apos;m Marady,a passionate software developer who loves creating simple, efficient, and elegant solutions to tackle real-world challenges.
                     </p>
                     <a href="#about">
                         <MagicButton
